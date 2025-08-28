@@ -78,8 +78,7 @@ OpenCV-Fundamentals--Image-Processing-&-Computer-Vision/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/<RohitSaiKiran>/OpenCV-Fundamentals--Image-Processing-and-Computer-Vision.git
-   cd OpenCV-Fundamentals--Image-Processing-and-Computer-Vision
+   git clone https://github.com/RohitSaiKiran/OpenCV-Fundamentals--Image-Processing-and-Computer-Vision
    ```
 
 2. Create a virtual environment and install dependencies:
